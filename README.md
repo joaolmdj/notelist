@@ -35,4 +35,5 @@ python manage.py runserver
 
 ### App Preview :
 
-![image](https://user-images.githubusercontent.com/61760730/158789327-477a00ba-c258-45c8-82ab-b3c9e2d012be.png)
+![image](https://user-images.githubusercontent.com/61760730/158795422-8aaa78b2-3ba3-4fc9-a97d-b6b729fb2d93.png)
+
